@@ -1,5 +1,5 @@
 <?php
-// かけ算、割り算を先に計算しよう
+// かけ算、割り算を先に計算する
 /*
 かけ算、割り算の結果を計算して「文字列」に戻す
 */
@@ -7,7 +7,7 @@
 require_once('extra.php');
 print($extra)."<br>";
 
-// 文字列を表示させよう！
+// 文字列を表示させる
 require_once('mul_div.php');
 print($str);
 
